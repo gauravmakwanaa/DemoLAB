@@ -1,5 +1,5 @@
 //Creating the Class
-//Hello git
+//Hello
 class largest_of_3
 {
    public static void main(String args[])
